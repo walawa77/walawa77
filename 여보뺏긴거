@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body 
+{
+background-color: #fff8c3;
+}
+* {
+margin: 0;
+padding: 0;
+}
+</style>
+</head>
+
+<body>
+<center>
+<a href="https://t.me/ORIGAZMYO"><img src="images/01.jpg"></a><br>
+<a href="https://t.me/ORIGAZMYO"><img src="images/02.gif"></a><br>
+<a href="https://t.me/ORIGAZMYO"><img src="images/03.jpg"></a><br>
+<a href="https://t.me/ORIGAZMYO"><img src="images/04.gif"></a><br>
+</center>
+</body>
+
+</html>
